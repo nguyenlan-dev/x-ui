@@ -1,4 +1,4 @@
-# x-ui
+# X-UI cPanel
 
 Bảng điều khiển `xray` đa giao thức và nhiều người dùng
 

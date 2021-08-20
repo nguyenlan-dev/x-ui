@@ -1,6 +1,6 @@
 # X-UI cPanel
 
-Bảng điều khiển `xray` đa giao thức và nhiều người dùng
+Bảng điều khiển `xray` đa giao thức và nhiều người dùng, được việt hóa lại 98%
 
 
 # Tính năng
@@ -35,3 +35,6 @@ Trước tiên hãy cài đặt phiên bản mới nhất của x-ui trên máy 
 x-ui v2-ui
 ```
 
+## Nguuồn tác giả
+=== Vaxilu === 
+https://github.com/vaxilu

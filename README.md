@@ -1,6 +1,6 @@
 # X-UI cPanel
 
-Bảng điều khiển `xray` đa giao thức và nhiều người dùng, được việt hóa lại 98%
+Bảng điều khiển `xray` đa giao thức và nhiều người dùng việt hóa từ phiên bản China
 
 
 # Tính năng
@@ -26,7 +26,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vietdungit/x-ui/master/install
 - Debian 8+
 
 
-## Di chuyển dữ liệu từ v2-ui sang x-ui
+## Di chuyển dữ liệu từ v2-UI sang X-UI
 
 Trước tiên hãy cài đặt phiên bản mới nhất của x-ui trên máy chủ nơi v2-ui được cài đặt, sau đó sử dụng lệnh sau để di chuyển. Lệnh này sẽ di chuyển tất cả dữ liệu tài khoản gửi đến của v2-ui của máy sang x-ui, cấu hình cài đặt bảng điều khiển và tên người dùng và mật khẩu sẽ không di chuyển.
 
@@ -35,6 +35,8 @@ Trước tiên hãy cài đặt phiên bản mới nhất của x-ui trên máy 
 x-ui v2-ui
 ```
 
-## Nguuồn tác giả
-=== Vaxilu === 
-https://github.com/vaxilu
+## Nguồn tác giả
+
+=== Vaxilu ===
+
+Github: https://github.com/vaxilu

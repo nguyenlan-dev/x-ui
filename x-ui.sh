@@ -82,7 +82,7 @@ before_show_menu() {
 }
 
 install() {
-    bash <(curl -Ls https://blog.sprov.xyz/x-ui.sh)
+    bash <(curl -Ls https://github.com/vietdungit/x-ui/raw/master/x-ui.sh)
     if [[ $? == 0 ]]; then
         if [[ $# == 0 ]]; then
             start

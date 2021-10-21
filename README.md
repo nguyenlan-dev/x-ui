@@ -16,7 +16,7 @@ Bảng điều khiển `xray` đa giao thức và nhiều người dùng việt 
 
 # Cài đặt
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vietdungit/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/nguyenlan-dev/x-ui/master/install.sh)
 ```
 
 ## Hệ điều hành được hỗ trợ cài đặt
@@ -40,3 +40,8 @@ x-ui v2-ui
 === Vaxilu ===
 
 Github: https://github.com/vaxilu
+
+====================
+## Việt Hóa nguồn
+=== vietdungit ===
+Github: https://giters.com/vietdungit
